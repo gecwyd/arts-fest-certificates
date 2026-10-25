@@ -1,0 +1,25 @@
+{
+ "app": "thouryathrikam-certificates",
+ "schema": 2,
+ "prefix": "TH26",
+ "count": 4606,
+ "generatedAt": "2026-10-25T09:45:27.399Z",
+ "kinds": {
+  "participation": "Participation",
+  "screening": "Screening",
+  "first": "1st place",
+  "second": "2nd place",
+  "third": "3rd place",
+  "volunteer": "Volunteer"
+ },
+ "assetRewrites": [
+  [
+   "https://thauryathrikam.vercel.app/certificate-assets/",
+   "assets/"
+  ],
+  [
+   "/certificate-assets/",
+   "assets/"
+  ]
+ ]
+}

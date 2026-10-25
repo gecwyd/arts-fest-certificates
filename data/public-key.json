@@ -1,0 +1,9 @@
+{
+ "algorithm": "Ed25519",
+ "keys": [
+  {
+   "kid": "a7b81e316add11bb",
+   "spki": "MCowBQYDK2VwAyEAaUyUAWaBFruGb+3IGAVgXYblk82PW8lYsukzZlKFhhM="
+  }
+ ]
+}
